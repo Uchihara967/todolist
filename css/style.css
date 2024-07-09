@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+h1 {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+}
+
+li {
+  width: 395px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid;
+  margin-top: 30px;
+  padding: 0 5px 4px;
+}
+
+li button {
+  width: 60px;
+  height: 30px;
+  text-align: center;
+  background-color: #f41717;
+  color: #f1f1f1;
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 3px 6px;
+}
+
+#content {
+  margin: 5rem;
+}
+
+#textArea {
+  width: 300px;
+  height: 30px;
+  border: 1px solid;
+  padding: 5px;
+}
+
+#btn {
+  border: 1px solid;
+  border-radius: 3px;
+  background-color: bisque;
+  padding: 5px;
+}
